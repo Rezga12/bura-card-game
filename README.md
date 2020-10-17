@@ -40,11 +40,11 @@ just click join to connect to the game room.
 
 Here are some screenshots from gameplay, As it was mentioned above, it is from a first peron perspective: 
 
-![lobby_with_room](images/screenshot_6.png)
+![lobby_with_room](images/Screenshot_6.png)
 
-![lobby_with_room](images/screenshot_8.png)
+![lobby_with_room](images/Screenshot_8.png)
 
-![lobby_with_room](images/screenshot_9.png)
+![lobby_with_room](images/Screenshot_9.png)
 
 #### Custom game cards:
 
@@ -53,16 +53,16 @@ Their design were made with custom images and Unity Shaders to give them sharper
 
 Here are some of their screens up closer:
 
-![lobby_with_room](images/screenshot_2.png)
+![lobby_with_room](images/Screenshot_2.png)
 Hearts.
 
-![lobby_with_room](images/screenshot_3.png)
+![lobby_with_room](images/Screenshot_3.png)
 Clubs.
 
-![lobby_with_room](images/screenshot_4.png)
+![lobby_with_room](images/Screenshot_4.png)
 Spades.
 
-![lobby_with_room](images/screenshot_5.png)
+![lobby_with_room](images/Screenshot_5.png)
 Diamonds.
 
 #### Contributions
